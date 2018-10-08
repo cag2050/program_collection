@@ -1,6 +1,7 @@
 let html = `
     <div>
         test1
+        <br/>
         <section id="query_expend">
             <i class="icon-double-angle-down"></i>
             <article>test2</article>
